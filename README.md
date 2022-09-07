@@ -5,5 +5,4 @@ The project builds vertices and connects them with edges and between each vertex
 - node struct 
 - egde struct 
 -  dfs algo
--  Tדפ
 - dikstra algo (short path algo)
